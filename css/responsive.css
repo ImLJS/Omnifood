@@ -1,0 +1,12 @@
+/***********************************/
+/* Below 1344px - Small Computers */
+/***********************************/
+
+@media(max-width: 84em){
+    .hero{
+        max-width: 120rem;
+    }
+    .heading-primary{
+        font-size: 4.4rem;
+    }
+}
