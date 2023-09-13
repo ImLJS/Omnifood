@@ -16,3 +16,9 @@ We are a technology company first, but with a major focus on consumer well-being
 - CTA
 - Footer
 
+## Built Using
+
+- HTML5
+- CSS3
+- JavaScript
+- JQuery
